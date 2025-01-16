@@ -1,0 +1,10 @@
+[package]
+name = "www"
+description = "Rust-based web framework"
+version = "0.1.0"
+edition = "2021"
+license-file = "LICENSE"
+readme = "README.md"
+repository = "https://github.com/mayocream/www"
+
+[dependencies]
